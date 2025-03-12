@@ -63,7 +63,7 @@ def main():
     simulator = GameSimulator(initial_budget, resources, turns)
     purchase_log, final_budget = simulator.run_simulation(purchase_plan)
     
-    print(f"Final budget after simulation: {final_budget}")
+    print(f"\nFinal budget after simulation: {final_budget}")
 
     # Write the purchase plan to the output file.
     write_output(output_file, purchase_log)

@@ -21,6 +21,8 @@ These challenges test participants' skills in cybersecurity, reverse engineering
 
 The **2025 edition** of the challenge took place on **March 12th at 15:30 CET**, lasting for a total of **six hours**.
 
+## The Challenge
+
 ### Abstract
 
 > Imagine a future in which every branch of a large global network, scattered across metropolises and small, remote centers, receives clean and sustainable energy. Each location has its own challenges: varying costs, renewable sources to integrate, and environmental conditions to respect. The goal is ambitious: to achieve energy independence with a carbon-neutral, or even negative, footprint. However, all of this with limited resources, forcing careful choices and ingenious strategies.  
@@ -29,9 +31,23 @@ The **2025 edition** of the challenge took place on **March 12th at 15:30 CET**,
 
 > Now, imagine having to put all this into practice: activity rounds, energy resources to balance, initial and maintenance costs, life cycles, special effects. The problem is ready to reveal its complexity and test your planning skills.
 
-## Material
+### Challenge Details
 
-[`Green Revolution Game`](Problem/resources/Green_Revolution_Game.pdf)
+The challenge is divided into two main components:
+
+1. **Capture the Flag (CTF) Challenges**:
+    - **Miscellaneous**: These challenges cover a wide range of topics and require participants to think outside the box to solve unique problems.
+    - **Cryptography**: Participants must decrypt messages, break codes, and solve puzzles that test their understanding of cryptographic principles.
+    - **Web Security**: These challenges focus on identifying and exploiting vulnerabilities in web applications, testing participants' skills in web security.
+
+2. **Algorithmic Optimization Problem**:
+    - **Energy Management**: Participants must develop algorithms to manage energy resources efficiently across a global network of sites. This involves balancing energy supply and demand, integrating renewable energy sources, and minimizing costs while maintaining sustainability.
+    - **Resource Allocation**: Teams must allocate limited resources strategically to maximize energy efficiency and sustainability. This includes planning for initial setup costs, ongoing maintenance, and adapting to changing environmental conditions.
+    - **Simulation and Strategy**: The problem includes simulating various scenarios and testing different strategies to achieve the best possible outcomes. Teams must consider long-term impacts and make decisions that balance immediate needs with future sustainability goals.
+
+### Material
+
+The document [`Green Revolution Game`](Problem/resources/Green_Revolution_Game.pdf) provides detailed information about the problem, including the rules, constraints, and objectives. It serves as the primary reference for participants as they develop their solutions.
 
 ## Team
 
