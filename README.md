@@ -24,7 +24,9 @@ The **2025 edition** of the challenge took place on **March 12th at 15:30 CET**,
 ### Abstract
 
 > Imagine a future in which every branch of a large global network, scattered across metropolises and small, remote centers, receives clean and sustainable energy. Each location has its own challenges: varying costs, renewable sources to integrate, and environmental conditions to respect. The goal is ambitious: to achieve energy independence with a carbon-neutral, or even negative, footprint. However, all of this with limited resources, forcing careful choices and ingenious strategies.  
+
 > Reply takes on this challenge by following an unconventional path: through innovative technologies, creative solutions, and a long-term vision, it strives to build an energy ecosystem where nothing is wasted and every single watt can make a difference. It is a story of ingenuity and responsibility in which efficiency, sustainability, and adaptability intertwine in a global mosaic of operational sites. The stakes are high: achieving a perfect balance between demand, supply, and budget, proving that it is possible to grow, expand, and prosper without ever losing sight of the planet and future generations.  
+
 > Now, imagine having to put all this into practice: activity rounds, energy resources to balance, initial and maintenance costs, life cycles, special effects. The problem is ready to reveal its complexity and test your planning skills.
 
 ## Material
