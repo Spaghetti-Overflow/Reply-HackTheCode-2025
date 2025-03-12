@@ -1,4 +1,5 @@
 # src/game_simulator.py
+
 """
 Simulate the game mechanics turn by turn. The simulator handles resource purchases,
 maintenance costs, power production, profit calculation, and resource state updates.
@@ -7,6 +8,7 @@ maintenance costs, power production, profit calculation, and resource state upda
 from src.resource import Resource
 
 class GameSimulator:
+
     def __init__(self, initial_budget, resources_def, turns):
         """
         Initialize the simulator.

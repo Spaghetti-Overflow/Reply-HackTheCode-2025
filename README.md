@@ -47,7 +47,7 @@ The challenge is divided into two main components:
 
 ### Material
 
-The document [`Green Revolution Game`](Problem/resources/Green_Revolution_Game.pdf) provides detailed information about the problem, including the rules, constraints, and objectives. It serves as the primary reference for participants as they develop their solutions.
+The document [`Green Revolution Game`](Problem/docs/Green_Revolution_Game.pdf) provides detailed information about the problem, including the rules, constraints, and objectives. It serves as the primary reference for participants as they develop their solutions.
 
 ## Team
 

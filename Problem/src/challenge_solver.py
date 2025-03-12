@@ -95,7 +95,6 @@ def solve_game_demo_0(initial_budget, resources, turns):
 
     return acquired_resources
 
-
 def solve_game_thunberg_1(initial_budget, resources, turns):
     """
     Dedicated solver for 1-thunberg.txt.
@@ -162,7 +161,6 @@ def solve_game_thunberg_1(initial_budget, resources, turns):
                 res['current_state'] = res['active_turns'] if res['active'] else res['downtime_turns']
 
     return acquired_resources
-
 
 def solve_game_attenborough_2(initial_budget, resources, turns):
     """
@@ -231,7 +229,6 @@ def solve_game_attenborough_2(initial_budget, resources, turns):
 
     return acquired_resources
 
-
 def solve_game_goodall_3(initial_budget, resources, turns):
     """
     Dedicated solver for 3-goodall.txt.
@@ -298,7 +295,6 @@ def solve_game_goodall_3(initial_budget, resources, turns):
                 res['current_state'] = res['active_turns'] if res['active'] else res['downtime_turns']
 
     return acquired_resources
-
 
 def solve_game_maathai_4(initial_budget, resources, turns):
     """
@@ -367,7 +363,6 @@ def solve_game_maathai_4(initial_budget, resources, turns):
 
     return acquired_resources
 
-
 def solve_game_carson_5(initial_budget, resources, turns):
     """
     Dedicated solver for 5-carson.txt.
@@ -434,7 +429,6 @@ def solve_game_carson_5(initial_budget, resources, turns):
                 res['current_state'] = res['active_turns'] if res['active'] else res['downtime_turns']
 
     return acquired_resources
-
 
 def solve_game_earle_6(initial_budget, resources, turns):
     """
@@ -503,7 +497,6 @@ def solve_game_earle_6(initial_budget, resources, turns):
 
     return acquired_resources
 
-
 def solve_game_mckibben_7(initial_budget, resources, turns):
     """
     Dedicated solver for 7-mckibben.txt.
@@ -571,7 +564,6 @@ def solve_game_mckibben_7(initial_budget, resources, turns):
 
     return acquired_resources
 
-
 def solve_game_shiva_8(initial_budget, resources, turns):
     """
     Dedicated solver for 8-shiva.txt.
@@ -638,7 +630,6 @@ def solve_game_shiva_8(initial_budget, resources, turns):
                 res['current_state'] = res['active_turns'] if res['active'] else res['downtime_turns']
 
     return acquired_resources
-
 
 # Dictionary mapping specific input filenames to dedicated solvers
 SOLVER_MAPPING = {

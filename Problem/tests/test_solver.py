@@ -1,4 +1,5 @@
 # tests/test_solver.py
+
 """
 Unit tests for the challenge solver and simulation.
 """
@@ -10,17 +11,19 @@ from src.challenge_solver import solve_game
 from src.game_simulator import GameSimulator
 
 class TestChallengeSolver(unittest.TestCase):
+
     def setUp(self):
         # Create a simple test input as a multi-line string.
         # Format: first line (budget, number of resources, number of turns),
         # followed by resource definitions, then turn definitions.
-        self.test_input = """10 2 3
-1 5 1 1 1 3 2 X 0
-2 3 1 1 1 3 1 X 0
-3 5 4
-4 6 3
-2 7 1
-"""
+        self.test_input = """
+                             10 2 3
+                             1 5 1 1 1 3 2 X 0
+                             2 3 1 1 1 3 1 X 0
+                             3 5 4
+                             4 6 3
+                             2 7 1
+                          """
         # Write the test input to a temporary file.
         self.input_file = "tests/test_input.txt"
         with open(self.input_file, "w") as f:

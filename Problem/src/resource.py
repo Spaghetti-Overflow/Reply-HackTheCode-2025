@@ -1,10 +1,12 @@
 # src/resource.py
+
 """
 Defines the Resource class, which encapsulates the properties and lifecycle
 of a resource in the challenge.
 """
 
 class Resource:
+
     def __init__(self, resource_def):
         """
         Initialize a resource instance from its definition.
